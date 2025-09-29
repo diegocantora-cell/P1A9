@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo DEC05
 	Definir numero Como Entero
 	Escribir 'Introduzca un numero entero:'
