@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON11
 	Definir importeBruto, importeNeto Como Real
 	Escribir 'Ingrese el importe bruto de la factura: '
