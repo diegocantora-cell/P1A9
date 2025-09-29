@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON09
 	Definir N1, N2, t Como Entero
 	Escribir 'Introduzca el numero 1:'
