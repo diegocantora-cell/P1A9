@@ -1,8 +1,9 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON07
 	Definir dia Como Entero
 	Escribir 'Introduzca un numero para ver con dia correponde:'
 	Leer dia
-	Según dia Hacer
+	SegÃºn dia Hacer
 		1:
 			Escribir '1 de sep'
 		2:
@@ -29,5 +30,5 @@ Algoritmo CON07
 			Escribir '12 de sep'
 		De Otro Modo:
 			Escribir 'El numero debe estar entre 1 y 12'
-	FinSegún
+	FinSegÃºn
 FinAlgoritmo
