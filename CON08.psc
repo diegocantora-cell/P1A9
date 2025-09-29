@@ -1,8 +1,9 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON08
 	Definir Calificacion Como Entero
 	Escribir 'Introduzca un numero para ver su equivalente:'
 	Leer Calificacion
-	Según Calificacion Hacer
+	SegÃºn Calificacion Hacer
 		1:
 			Escribir 'E'
 		2:
@@ -15,5 +16,5 @@ Algoritmo CON08
 			Escribir 'A'
 		De Otro Modo:
 			Escribir 'El numero debe estar entre 1 y 5'
-	FinSegún
+	FinSegÃºn
 FinAlgoritmo
