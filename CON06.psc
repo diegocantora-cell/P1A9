@@ -1,8 +1,9 @@
-Algoritmo CON06
+
+A//00593905 Diego Alejandro Cantoral Barrioslgoritmo CON06
 	Definir dia Como Entero
 	Escribir 'Introduzca un numero para ver con dia correponde:'
 	Leer dia
-	Según dia Hacer
+	SegÃºn dia Hacer
 		1:
 			Escribir 'Lunes'
 		2:
@@ -19,5 +20,5 @@ Algoritmo CON06
 			Escribir 'Domingo'
 		De Otro Modo:
 			Escribir 'El numero debe estar entre 1 y 7'
-	FinSegún
+	FinSegÃºn
 FinAlgoritmo
