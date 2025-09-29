@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON10
 	Definir edad Como Entero
 	Definir sexo Como Cadena
@@ -6,8 +7,8 @@ Algoritmo CON10
 	Escribir 'Ingrese su sexo (M para masculino, F para femenino): '
 	Leer sexo
 	Si (edad>=18) Y (sexo='M' O sexo='m') Entonces
-		Escribir 'Puede ingresar al espect·culo'
+		Escribir 'Puede ingresar al espect√°culo'
 	SiNo
-		Escribir 'No puede ingresar al espect·culo'
+		Escribir 'No puede ingresar al espect√°culo'
 	FinSi
 FinAlgoritmo
