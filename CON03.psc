@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON03
 	Definir Numero Como Entero
 	Escribir 'Introduzca un numero entero:'
