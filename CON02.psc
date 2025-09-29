@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo CON02
 	Definir N1, N2, N3 Como Real
 	Escribir 'introduzca un numero:'
